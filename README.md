@@ -14,3 +14,10 @@ Microsoft Office Specialist: Excel Associate (Office 2019) certification.
 
 ### Dataset
 Sample sales dataset created for learning and portfolio use.
+
+### Lesson 2 - Excel Formulas
+- Used IF for performance categorization
+- Applied SUMIFS and COUNTIFS for summary analysis
+- Created region-wise and product-wise insights
+
+
