@@ -20,4 +20,9 @@ Sample sales dataset created for learning and portfolio use.
 - Applied SUMIFS and COUNTIFS for summary analysis
 - Created region-wise and product-wise insights
 
+### Lesson 3 – Data Cleaning & Visualization
+- Sorted and filtered sales data for analysis
+- Removed duplicate records safely
+- Created column, pie, and line charts for insights
+
 
