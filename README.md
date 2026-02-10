@@ -25,4 +25,8 @@ Sample sales dataset created for learning and portfolio use.
 - Removed duplicate records safely
 - Created column, pie, and line charts for insights
 
+### Lesson 4 – Interactive Excel Dashboard
+- Built KPI metrics and summary indicators
+- Designed an interactive one-page dashboard with slicers and charts
+- Enabled dynamic analysis by region, product, and performance
 
